@@ -10,9 +10,9 @@ name: Your Name
 title: Your job title
 email: Your email (optional)
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+# phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: https://github.com/sugarnyang (eg. https://google.com)(optional)
+website: https://github.com/sugarnyang
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
